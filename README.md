@@ -6,7 +6,7 @@ The .zip URL Blocker is a Chrome extension that blocks URLs with the .zip domain
 
 To install the .zip URL Blocker extension, follow these simple steps:
 
-1. Download the extension package from the [Releases](https://github.com/your-repository/releases) page.
+1. Download the extension package from the https://github.com/coveandr/.zip-URL-Blocker page.
 
 2. Unzip the downloaded package to a local directory.
 
