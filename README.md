@@ -38,6 +38,4 @@ Contributions are welcome! If you would like to contribute to the .zip URL Block
 
 4. Your contribution will be reviewed and merged if it meets the project's guidelines.
 
-## License
-
-This extension is open-source and licensed under the [license name]. See the LICENSE file for more details.
+All Credit To This Application Goes To Andrew Covert And Paul Rasmussen.
